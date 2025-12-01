@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me & This Repo
 
-Hi, I'm *Aman Singh, a Computer Science student (AI & ML) at **NIET*.
+Hi, I'm Aman Singh, a Computer Science student (AI & ML) at *NIET*.
 
 This repository (Data-Science-Assignments) serves as my *Daily Learning Log* and code archive. Here, I commit daily tasks, assignments, and projects related to *Machine Learning, Deep Learning, and Computer Vision*. My goal is to build a robust understanding of algorithms by implementing them from scratch and using modern frameworks.
 
@@ -65,6 +65,4 @@ To run the notebooks in this repository locally:
  * Launch Jupyter:
    jupyter notebook
 
-<div align="center">
-📫 Connect with Me
-</div>
+
