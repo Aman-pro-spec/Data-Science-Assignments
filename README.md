@@ -44,7 +44,7 @@ This repository (Data-Science-Assignments) serves as my *Daily Learning Log* and
 - [ ] ResNet (Upcoming)
 
 ### 2. Computer Vision Projects
-- [ Done ] Plant Disease Prediction
+-  Plant Disease Prediction
 - [ ] Face Detection
 
 </details>
