@@ -26,7 +26,7 @@ This repository (Data-Science-Assignments) serves as my *Daily Learning Log* and
 | Day | 📅 Date | 📝 Topic / Concept | 📂 Project/Code Link | 🛠 Tech Stack |
 |:---:|:---:|:---|:---|:---|
 | *01* | Dec 01, 2025 | *CNN Architectures (LeNet & AlexNet)* | [View Notebook](./01_DECEMBER_2025_CNN_BASICS.ipynb) | TensorFlow, Keras |
-| *02* | Dec 02, 2025 | Upcoming... | Pending | - |
+| *02* | Dec 02, 2025 | MYSQL_BASICS | Pending | - |
 | *03* | Dec 03, 2025 | Upcoming... | Pending | - |
 
 ---
