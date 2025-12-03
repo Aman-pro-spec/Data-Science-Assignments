@@ -27,8 +27,8 @@ This repository (Data-Science-Assignments) serves as my *Daily Learning Log* and
 |:---:|:---:|:---|:---|:---|
 | *01* | Dec 01, 2025 | *CNN Architectures (LeNet & AlexNet)* | [View Notebook](./01_DECEMBER_2025_CNN_BASICS.ipynb) | TensorFlow, Keras |
 | *02* | Dec 02, 2025 | *MYSQL_BASICS* | [View Notebook](https://github.com/Aman-pro-spec/Data-Science-Assignments/blob/main/MySQl_Basics.ipynb) | SQL_commands. |
-| *03* | Dec 03, 2025 | *API* | [View Notebook](https://github.com/Aman-pro-spec/Data-Science-Assignments/blob/main/API.ipynb) | API |
-| *03* | Dec 03, 2025 | *Flask* | [View Notebook](https://github.com/Aman-pro-spec/Data-Science-Assignments/blob/main/Flask.ipynb) | Flask |
+| *03 Task-1* | Dec 03, 2025 | *API* | [View Notebook](https://github.com/Aman-pro-spec/Data-Science-Assignments/blob/main/API.ipynb) | API |
+| *03 Task-2* | Dec 03, 2025 | *Flask* | [View Notebook](https://github.com/Aman-pro-spec/Data-Science-Assignments/blob/main/Flask.ipynb) | Flask |
 
 
 ---
